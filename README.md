@@ -44,8 +44,8 @@ A very simple Laravel 12 + Vue 3 + AdminLTE 3 based Curd Starter template for SP
 ## Install with Docker
 
 
-- Application http://localhost:8008/
-- Adminer for Database http://localhost:8080/
+- Application http://localhost:8000/
+- Adminer for Database http://localhost:8000/
 
 
 
