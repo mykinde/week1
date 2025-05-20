@@ -1,7 +1,9 @@
 # Laravel Starter
 
 
-[![Github Link](https://github.com/mykinde/)[Site](https://mykinde.github.io/site/)
+[Documentation Link- ChatGPT](https://chatgpt.com/share/682c3f05-3a14-8004-9a92-4983891c397f)
+
+[My Site](https://mykinde.github.io/site/)
 
 
 ## About Repository
